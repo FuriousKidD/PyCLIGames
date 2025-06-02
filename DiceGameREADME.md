@@ -6,7 +6,7 @@ The game features a clean **menu system** that allows users to view instructions
 ---
 
 ## 📸 Screenshots of usage
- `To be added soon`
+ > To be added soon
 ---
 
 ## 🔧 Features
